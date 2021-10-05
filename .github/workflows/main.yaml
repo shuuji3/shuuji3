@@ -20,4 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          repositories: 1000
           repositories_forks: yes

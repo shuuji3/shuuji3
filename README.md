@@ -1,6 +1,7 @@
 ### Hello 🙂✨
 
 ![Metrics](https://github.com/shuuji3/shuuji3/blob/master/github-metrics.svg)
+
 [![shuuji3's github stats](https://github-readme-stats.shuuji3.vercel.app/api?username=shuuji3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

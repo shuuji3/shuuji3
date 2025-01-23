@@ -24,13 +24,10 @@ The followings are some examples:
 - [Django web framework documentation](https://docs.djangoproject.com/ja/)
 - [psycopg3 (popular PostgreSQL connector library in Python) document](https://psycopg3-ja.translation.shuuji3.xyz/ja/latest/)
 
-You can support me via GitHub sponsor or Ko-fi:
-
-<div class="floatingchat-donate-button" style="z-index:10000; background-color: #5bc0de; background-color: #00b4f7; border-radius: 100px; height: 46px; display: flex; align-items: center; font-family: 'Nunito', 'Quicksand', sans-serif; font-size: 16px; width: max-content; color: #fff; justify-content: space-between; padding: 0 20px; font-weight: bold; cursor: pointer; display: flex !important;">
-  <img id="kofi-widget-overlay-d8d5907f-4f1d-4b3d-ac1f-70caa92620ea-donate-button-image" src="https://storage.ko-fi.com/cdn/cup-border.png" class="kofiimg" style="width: 39px;">
-  <span style="margin-left: 8px; color:#323842; width: 200px; height: 50px;">
-    Donate
-  </span>
+You can support me via [GitHub sponsor](https://github.com/sponsors/shuuji3) or
+<a href="https://ko-fi.com/shuuji3">
+  Ko-fi 
+  <img src="https://storage.ko-fi.com/cdn/cup-border.png" class="kofiimg" style="width: 24px;">
 </div>
 
 Your support will give me another cup of coffee ☕ or tea 🍵, otherwise enhance my computing devices that help me write better codes and everyone can receive its benefit 🌟 🧑🏻‍💻

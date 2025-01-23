@@ -26,9 +26,6 @@ The followings are some examples:
 - [psycopg3 (popular PostgreSQL connector library in Python) document](https://psycopg3-ja.translation.shuuji3.xyz/ja/latest/)
 
 You can support me via [GitHub sponsor](https://github.com/sponsors/shuuji3) or
-<a href="https://ko-fi.com/shuuji3">
-  Ko-fi 
-  <img src="https://storage.ko-fi.com/cdn/cup-border.png" class="kofiimg" style="width: 24px;">
-</div>
+<a href='https://ko-fi.com/D1D4GJLOZ' target='_blank'><img height='24' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Your support will give me another cup of coffee ☕ or tea 🍵, otherwise enhance my computing environment that help me write better codes and everyone can receive its benefit 🌟 🧑🏻‍💻

@@ -30,4 +30,4 @@ You can support me via [GitHub sponsor](https://github.com/sponsors/shuuji3) or
   <img src="https://storage.ko-fi.com/cdn/cup-border.png" class="kofiimg" style="width: 24px;">
 </div>
 
-Your support will give me another cup of coffee ☕ or tea 🍵, otherwise enhance my computing devices that help me write better codes and everyone can receive its benefit 🌟 🧑🏻‍💻
+Your support will give me another cup of coffee ☕ or tea 🍵, otherwise enhance my computing environment that help me write better codes and everyone can receive its benefit 🌟 🧑🏻‍💻

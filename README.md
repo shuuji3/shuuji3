@@ -9,6 +9,7 @@ Recent highlighted contributions include [nimble Mastodon client elk](https://gi
 You can find [all my contributions on GitHub here](https://github.com/search?q=author%3Ashuuji3+archived%3Afalse+&ref=advsearch&query=sort%3Aupdated-desc+user%3A%40shuuji3+archived%3Afalse+%28type%3Apr+OR+type%3Aissue%29&type=pullrequests)
 
 [![GitHub grass of shuuji3](https://ghchart.rshah.org/shuuji3)](https://github.com/shuuji3)
+
 (powered by https://github.com/2016rshah/githubchart-api)
 
 If you're a Japanese speaker 🇯🇵, you may have already read my translations on some websites and applications. I've translated English into Japanese on open source projects on GitHub, or in the popular localization platforms for open source software such as Transifex ([@shuuji3](https://www.transifex.com/user/profile/shuuji3/)) and Crowdin ([@shuuji3](https://crowdin.com/profile/shuuji3)), otherwise on Wikipedia articles (tech and non-tech articles, [all contributions here](https://ja.wikipedia.org/w/index.php?target=TAKAHASHI+Shuuji&namespace=0&tagfilter=&newOnly=1&hideMinor=1&start=&end=&limit=500&title=%E7%89%B9%E5%88%A5%3A%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2)).
